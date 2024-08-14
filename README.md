@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/87a1f323-05be-4483-8da3-2c3c564bdc11)## Hi there 👋
+## Hi there 👋
 ![](https://komarev.com/ghpvc/?username=sabbir-the-faaz&color=ff0000)
 <!--
 **sabbir-the-faaz/sabbir-the-faaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
