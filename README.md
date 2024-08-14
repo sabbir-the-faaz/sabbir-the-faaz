@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
+![](https://komarev.com/ghpvc/?username=sabbir-the-faaz&color=red)
 <!--
 **sabbir-the-faaz/sabbir-the-faaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
