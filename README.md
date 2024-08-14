@@ -1,16 +1,16 @@
 ## Hi there 👋
-![](https://komarev.com/ghpvc/?username=sabbir-the-faaz&color=red)
+![](https://komarev.com/ghpvc/?username=sabbir-the-faaz&color=ff0000)
 <!--
 **sabbir-the-faaz/sabbir-the-faaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a website for a real estate company
+- 🌱 I’m currently learning java script, machine learning & AI
+- 👯 I’m looking to collaborate on ML & AI 
+- 💬 Ask me about complex thinking
+- 🌱 I love to generate ideas, business, & problem solving
+- 📫 How to reach me: mdsabbirrahmanaksh19@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to think about this world
